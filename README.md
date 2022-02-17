@@ -8,6 +8,10 @@
     <a href='https://github.com/BurnPro3D/data-api-notebooks/blob/main/access-historical-fire-perimeter-data.ipynb'><li>Historical Fire Perimeters</li></a>
     <a href='https://github.com/BurnPro3D/data-api-notebooks/blob/main/ckan-api.ipynb'><li>Wifire Commons ckan dataset search</li></a>
     <a href='https://github.com/BurnPro3D/data-api-notebooks/blob/main/access-QuicFire-QF-Idealized-Grass-Plots-data.ipynb'><li>QF Idealized Grass Plots</li></a>
+    <a href='https://github.com/BurnPro3D/data-api-notebooks/blob/main/access-QuicFire-QF-Hitchiti-Piedmont-Prescribed-Fire-Ignition-With-Adjusted-Moisture-Scenarios-data.ipynb'><li>QF Hitchiti (Piedmont) Prescribed Fire Ignition With Adjusted Moisture Scenarios </li></a>
+
+
+    
     
     
    
